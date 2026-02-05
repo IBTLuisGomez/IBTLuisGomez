@@ -15,47 +15,49 @@
 
 ---
 
-## 🧬 Sobre mí: Perfil Híbrido Biotec-IT
-Soy un profesional con un perfil único que combina la **Ingeniería en Biotecnología** con el **Desarrollo Backend**. Mi formación de posgrado me ha dotado de herramientas avanzadas para el **análisis e interpretación de datos complejos**, permitiéndome transformar procesos científicos en soluciones digitales seguras y eficientes en entornos regulados.
+## 🧬 About Me: Biotech-IT Hybrid Profile
+I am a **Backend Developer** with a unique background as a **Master in Biotechnology Innovation**. My postgraduate training has equipped me with advanced **data analysis and complex interpretation tools**, which I apply to bridge the gap between biological research and scalable software solutions.
 
-- 🔬 **Actualmente en XelleScientific:** Lidero la digitalización de procesos mediante el desarrollo de sistemas **LIMS** (Laboratory Information Management System) y la aplicación de **IA** para la optimización del Sistema de Gestión de Calidad (QMS).
-- 🧬 **Background Científico:** Maestro en Innovación Biotecnológica con experiencia técnica en cultivo celular avanzado y escalamiento en biorreactores.
-- 💡 **Enfoque Técnico:** Especialista en el desarrollo de APIs REST escalables con **Java y Spring Boot**, priorizando la seguridad, la trazabilidad y la calidad del código.
+- 🔬 **Currently at XelleScientific:** Leading digital transformation by developing custom **LIMS** (Laboratory Information Management System) and integrating **AI** to automate Quality Management Systems (QMS).
+- 🧬 **Scientific Expertise:** Specialist in advanced cell culture (stem cells), placenta processing, and bioreactor scaling under strict GxP/ISO/GMP regulations.
+- 💡 **Technical Focus:** Building secure and scalable REST APIs using **Java and Spring Boot**, with a focus on data integrity, traceability, and clean code.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Technical Stack
 | **Backend & Cloud** | **Data & Science** | **Tools & Others** |
 | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![Analysis](https://img.shields.io/badge/Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white) ![GxP](https://img.shields.io/badge/GxP_Compliance-0078D4?style=flat-square) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-000000?style=flat-square) |
-| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) | ![LIMS](https://img.shields.io/badge/LIMS_Development-00A3E0?style=flat-square) ![AI](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-62A03F?style=flat-square) ![TOEFL](https://img.shields.io/badge/English_C1-FFCC00?style=flat-square) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) | ![LIMS](https://img.shields.io/badge/LIMS_Development-00A3E0?style=flat-square) ![AI](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-62A03F?style=flat-square) ![TOEFL](https://img.shields.io/badge/TOEFL_C1-FFCC00?style=flat-square) |
 
 ---
 
-## 📂 Repositorios Destacados
-* **[HubForum API](https://github.com/IBTLuisGomez/hubforum):** Desarrollo de un foro colaborativo con protección de API mediante Spring Security, implementación de pruebas y despliegue.
-* **[Literature Challenge](https://github.com/IBTLuisGomez/literature-challenge):** Aplicación para la gestión de contenido literario con persistencia de datos mediante Spring Data JPA.
-* **[Text Encryptor](https://github.com/IBTLuisGomez/text-encryptor):** Herramienta de encriptación y desencriptación de mensajes desarrollada con lógica de programación pura.
-* **Sistema LIMS (XelleScientific):** Arquitectura digital para la trazabilidad total de muestras biológicas y gestión de datos bajo estándares GxP.
+## 📂 Featured Repositories
+* **[HubForum API](https://github.com/IBTLuisGomez/hubforum):** A secure collaborative forum backend built with Spring Security, featuring full API protection and automated testing.
+* **[Literature Challenge](https://github.com/IBTLuisGomez/literature-challenge):** A literary content management system leveraging Spring Data JPA for complex data persistence.
+* **[Text Encryptor](https://github.com/IBTLuisGomez/text-encryptor):** A front-end tool developed with pure JavaScript to demonstrate logic for message encryption and decryption.
+* **LIMS Framework (XelleScientific):** Digital architecture for biological sample traceability and data management under GxP standards.
 
 ---
 
-## 🏅 Patentes e Innovación
-Soy inventor de dos patentes registradas ante el IMPI, reflejando mi capacidad para la innovación y la documentación técnica rigurosa:
-1.  **Plásmido** para la inserción simplificada de secuencias cortas de DNA (Expediente: MX/a/2019/014819).
-2.  **Goma vegana** con propóleo y coenzima Q10 para el tratamiento de enfermedades neurodegenerativas (Expediente: MX/a/2023/015384).
+## 🏅 Patents & Innovation
+I am an inventor with two patents registered before the IMPI, showcasing my commitment to technical documentation and innovative problem-solving:
+1.  **DNA Plasmid:** A novel plasmid for the simplified insertion of short DNA sequences (Ref: MX/a/2019/014819).
+2.  **Vegan Neuro-Gum:** A vegan coadjuvant treatment for neurodegenerative diseases containing propolis and CoQ10 (Ref: MX/a/2023/015384).
 
 ---
 
-## 🎓 Formación y Certificaciones
-* **Oracle Next Education (ONE):** Especialización en Backend (Java & Spring).
-* **Maestría en Innovación Biotecnológica:** CIATEJ.
-* **Ingeniería en Biotecnología:** Universidad Autónoma de Guadalajara.
+## 🎓 Education & Certifications
+* **Oracle Next Education (ONE):** Backend Developer Specialization (Java & Spring Boot).
+* **MSc in Biotechnology Innovation:** CIATEJ (Advanced Data Interpretation focus).
+* **B.Eng. in Biotechnology:** Universidad Autónoma de Guadalajara (UAG).
 
 ---
 
-## ✉️ ¡Conectemos!
-- **LinkedIn:** [linkedin.com/in/ibtfernandogómez](https://www.linkedin.com/in/ibtfernandogómez) 
-- **Email:** [ibt.fernandogomez@gmail.com](mailto:ibt.fernandogomez@gmail.com) 
+## ✉️ Connect with Me!
+- **Location:** Jalisco, Mexico
+- **LinkedIn:** [https://www.linkedin.com/in/ibtfernandogomez/]
+- **Email:** [ibt.fernandogomez@gmail.com](mailto:ibt.fernandogomez@gmail.com)
 
-> *"Apasionado por la ciencia y la innovación, siempre buscando oportunidades para el crecimiento profesional y personal".*
+> *"Bridging the gap between complex biological needs and secure, validated software solutions."*
+
