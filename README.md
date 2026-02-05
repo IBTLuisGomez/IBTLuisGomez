@@ -1,54 +1,38 @@
-# ¡Hola, soy Luis Fernando Gómez Mendoza! 👋
+# Luis Fernando Gómez Mendoza 👋
+### Software Developer | Biotechnology MSc | GxP Digital Automation Engineer
 
-### 🚀 Junior Software Developer | Biotechnology MSc | GxP Digital Automation Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078D4&height=200&section=header&text=Innovation%20Through%20Code%20&%20Science&fontSize=40&animation=fadeIn" alt="Header Image" />
+</p>
 
-[cite_start]Soy un profesional con un perfil híbrido único que combina la **Ingeniería en Biotecnología** con el **Desarrollo Backend**[cite: 153, 154]. [cite_start]Me especializo en la creación de soluciones digitales seguras para entornos regulados, integrando mi experiencia en procesos de laboratorio con el desarrollo de software moderno[cite: 5, 6].
-
-- 🔬 **Actualmente en XelleScientific:** Lidero la digitalización de procesos, desarrollando sistemas **LIMS** (Laboratory Information Management System) y aplicando **IA** para la optimización del Sistema de Gestión de Calidad (QMS).
-- [cite_start]🧬 **Background Científico:** Maestro en Innovación Biotecnológica con experiencia en cultivo celular avanzado y escalamiento en biorreactores[cite: 20, 46].
-- [cite_start]💡 **Enfoque Técnico:** Desarrollo de APIs REST escalables con Java y Spring Boot, con un fuerte mindset hacia la calidad del código y la seguridad[cite: 66, 73, 77].
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-| Categoría | Herramientas |
-| :--- | :--- |
-| **Backend** | [cite_start]Java, Spring Boot, Spring Security, Spring Data JPA [cite: 72, 75, 76, 77] |
-| **Bases de Datos** | [cite_start]MySQL, SQL [cite: 72, 138] |
-| **Frontend & Web** | [cite_start]JavaScript, HTML5, CSS3, SEO Management [cite: 80, 81, 140, 179] |
-| **Cloud & DevOps** | [cite_start]Oracle Cloud Infrastructure (OCI), Git, GitHub [cite: 74, 136] |
-| **IA & Emergentes** | [cite_start]Integración de OpenAI APIs, Spring AI [cite: 78, 96, 120] |
+<p align="center">
+  <a href="mailto:ibt.fernandogomez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ibtfernandogómez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/IBTLuisGomez"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-### 📂 Proyectos Destacados
+## 🧬 Sobre mí: Perfil Híbrido Biotec-IT
+Soy un **Desarrollador Backend** único con una **Maestría en Innovación Biotecnológica**. Mi formación de posgrado me ha dotado de herramientas avanzadas para el **análisis e interpretación de datos complejos**, las cuales aplico hoy para transformar laboratorios biotecnológicos en entornos digitales eficientes.
 
-* [cite_start]**HubForum Challenge:** Desarrollo de un foro colaborativo con protección de API, implementación de pruebas y despliegue[cite: 88, 89, 130].
-* [cite_start]**Literature Challenge:** Aplicación para la gestión de contenido literario y persistencia de datos con Spring Data JPA[cite: 84, 85, 126].
-* [cite_start]**Text Encryptor:** Herramienta de encriptación y desencriptación de mensajes desarrollada con lógica de programación pura[cite: 91, 133].
-* **Sistema LIMS (XelleScientific):** (En desarrollo) Plataforma para la trazabilidad total de muestras biológicas y gestión de datos bajo estándares GxP.
-
----
-
-### 🏅 Patentes e Innovación
-Soy inventor de dos patentes registradas ante el IMPI, lo que demuestra mi capacidad de innovación y documentación técnica rigurosa:
-1.  [cite_start]**Plásmido** para la inserción simplificada de secuencias cortas de DNA (Expediente: MX/a/2019/014819)[cite: 32].
-2.  [cite_start]**Goma vegana** con propóleo y coenzima Q10 para el tratamiento de enfermedades neurodegenerativas (Expediente: MX/a/2023/015384)[cite: 33].
+- 🖥️ **Tecnologías:** Especialista en Java y Spring Boot para la creación de APIs REST seguras.
+- 🧪 **Ciencia y Datos:** Experto en procesamiento de datos biológicos bajo normativas GxP (ISO/GMP).
+- 🚀 **Automatización:** Desarrollo de sistemas LIMS y aplicación de IA para optimizar Sistemas de Gestión de Calidad (QMS).
 
 ---
 
-### 🎓 Formación y Certificaciones
-* [cite_start]**Oracle Next Education (ONE):** Especialización en Backend (Java & Spring)[cite: 70, 71].
-* [cite_start]**Maestría en Innovación Biotecnológica:** CIATEJ[cite: 28, 46].
-* [cite_start]**Ingeniería en Biotecnología:** Universidad Autónoma de Guadalajara[cite: 30, 48].
+## 🛠️ Stack Tecnológico
+| **Backend & Cloud** | **Data & Science** | **Tools & Others** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![Python](https://img.shields.io/badge/Data_Analysis-3776AB?style=flat-square&logo=python&logoColor=white) ![GxP](https://img.shields.io/badge/GxP_Compliance-0078D4?style=flat-square) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![SEO](https://img.shields.io/badge/SEO-000000?style=flat-square) |
+| ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white) | ![LIMS](https://img.shields.io/badge/LIMS_Development-00A3E0?style=flat-square) ![AI](https://img.shields.io/badge/AI_Integration-412991?style=flat-square&logo=openai&logoColor=white) | ![Scrum](https://img.shields.io/badge/Scrum-62A03F?style=flat-square) ![TOEFL](https://img.shields.io/badge/English_C1-FFCC00?style=flat-square) |
 
 ---
 
-### ✉️ ¡Conectemos!
+## 📂 Repositorios Destacados
+* **[HubForum API](https://github.com/IBTLuisGomez/hubforum):** API segura para colaboración con Spring Security.
+* **[LIMS Framework]:** Arquitectura digital para trazabilidad de muestras biotecnológicas.
+* **[Literature Challenge]:** Gestión de datos persistentes con Spring Data JPA.
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/ibtfernandogómez](https://www.linkedin.com/in/ibtfernandogómez) [cite: 41, 106]
-* [cite_start]**Email:** [ibt.fernandogomez@gmail.com](mailto:ibt.fernandogomez@gmail.com) [cite: 2, 41]
-* [cite_start]**Ubicación:** Jalisco, México [cite: 42, 107]
-
-> [cite_start]*"Apasionado por la ciencia y la innovación, siempre buscando oportunidades para el crecimiento profesional y personal"[cite: 149, 150, 152].*
+---
