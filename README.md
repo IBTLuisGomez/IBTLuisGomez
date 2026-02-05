@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibtfernandogomez/">
+  <a href="[https://www.linkedin.com/in/ibtfernandogomez/](https://www.linkedin.com/in/ibtfernandogomez/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ibt.fernandogomez@gmail.com">
